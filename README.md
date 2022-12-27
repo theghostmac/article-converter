@@ -4,8 +4,11 @@ A simplistic tool built with Golang, for converting your favorite articles to lo
 file extensions. 
 ### Working principle
 Step 1: grab the content
+
 Step 2: simplify the HTML5 template
+
 Step 3: Download any image in the content
+
 Step 4: creates an epub or mobi file, from the user's discretion
 
 ## Download
@@ -15,8 +18,8 @@ To download this tool, you can either use:
 
 ## Usage Commands
 To-do
-- [ ] add `-link` flag option
-- [ ] add `type` flag option
+- [x] add `-link` flag option
+- [x] add `-type` flag option
 - [ ] add `--help` flag option
 - [ ] create new release on GitHub
 
